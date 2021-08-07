@@ -3,6 +3,11 @@
 ### I'm a College Student and Web Designer
 - 👀 I’m interested in Photography and Design
 
+### Social Media 
+<a href="https://www.instagram.com/naufal_yaf">
+   <img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
+</a>
+
 <br />
 
 ### Languages and Tools 
