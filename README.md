@@ -4,7 +4,7 @@
 - 👀 I’m interested in Photography and Design
 
 ### Social Media
-<a href=""><img align="left" alt="Portofolio" width"26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="#"><img align="left" alt="Portofolio" width"26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.instagram.com/naufal_yaf"><img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <a href="https://www.youtube.com/channel/UCwCz1Byk6xym2enZK0xmP3Q"><img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
 
