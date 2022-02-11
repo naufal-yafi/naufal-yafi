@@ -4,7 +4,7 @@
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
 
-> I'm interested Software and Web
+> I'm line CODING >_ 
 
 <br />
 
