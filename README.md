@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/{naufa-yafi}/count.svg)
+![](https://komarev.com/ghpvc/?username=naufal-yafi)
+
 <h2>It's me, @naufal-yafi</h2>
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
