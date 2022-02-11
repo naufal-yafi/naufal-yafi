@@ -1,21 +1,15 @@
-### Hello world!, I'm Naufal
+![](https://visitor-badge.glitch.me/badge?page_id=naufal-yafi.naufal-yafi)
 
-### I'm a College Student and Web Designer
-- 👀 I’m interested in Photography and Design
+<h2>It's me, @naufal-yafi</h2>
+<p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
+</em></p>
 
-### Social Media
+> I'm interested Software and Web
+
+<h2>Social Media</h2>
 <a href="https://www.instagram.com/naufal_yaf"><img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <a href="https://www.youtube.com/channel/UCwCz1Byk6xym2enZK0xmP3Q"><img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
 
 <br />
 
-### Languages and Tools 
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="TERMINAL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&layout=compact&langs_count=8"/>
