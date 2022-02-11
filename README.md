@@ -7,5 +7,3 @@
 > I'm like CODING >_ 
 
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi)]
