@@ -8,4 +8,4 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dracula)
