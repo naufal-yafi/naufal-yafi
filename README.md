@@ -8,4 +8,4 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi&show_icons=true)
