@@ -2,9 +2,10 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87789251/153717865-21889074-a7ea-41a9-8a5c-b8105b764b46.png" width="100px" height="100px" alt="my-logo">
-  <br>_____________________________________<br>
-  Welcome to My Repository
+  <br>_____________________________________
 </p>
+
+<h2 align="center">Welcom to My Repository</h2>
 
 <h2>It's me, @naufal-yafi</h2>
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
