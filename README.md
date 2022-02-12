@@ -7,7 +7,6 @@
 > I'm like CODING >_ 
 
 <br />
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi&theme=dark)]
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi&theme=dark)
+
