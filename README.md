@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=naufal-yafi&style=flat-square)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87789251/153717865-21889074-a7ea-41a9-8a5c-b8105b764b46.png" width="100px" height="100px" alt="my-logo">
+  <a href="https://www.instagram.com/naufal_yaf/">
+    <img src="https://user-images.githubusercontent.com/87789251/153717865-21889074-a7ea-41a9-8a5c-b8105b764b46.png" width="100px" height="100px" alt="my-logo">
+  </a>
   <br>_____________________________________
 </p>
 
@@ -12,6 +14,16 @@
 </em></p>
 
 > I'm like CODING >_ 
+
+<h3>Skill :</h3>
+<p>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50px" height="50px" alt="JAVA">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/terminal-1-logo.png" width="50px" height="50px" alt="TERMINAL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50px" height="50px" alt="C">
+  <img src="https://www.ulen.delivery/assets/img/html.png" width="50px" height="50px" alt="HTML">
+  <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" width="50px" height="50px" alt="CSS">
+  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50px" height="50px" alt="JAVASCRIPT">
+</p>
 
 <br />
 
