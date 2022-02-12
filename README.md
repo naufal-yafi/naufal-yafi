@@ -5,7 +5,7 @@
   <br>_____________________________________
 </p>
 
-<h2 align="center">Welcom to My Repository</h2>
+<h3 align="center">* Welcome to My Repository *</h3>
 
 <h2>It's me, @naufal-yafi</h2>
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
