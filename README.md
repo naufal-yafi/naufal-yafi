@@ -22,7 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="35px" height="40px" alt="C">
   <img src="https://www.ulen.delivery/assets/img/html.png" width="30px" height="30px" alt="HTML">
   <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" width="50px" height="50px" alt="CSS">
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50px" height="50px" alt="JAVASCRIPT">
+  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px" height="30px" alt="JAVASCRIPT">
 </p>
 
 <br />
