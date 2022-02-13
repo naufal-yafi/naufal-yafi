@@ -18,9 +18,9 @@
 <h2>My Skill : </h2>
 <p>
   <img src="https://user-images.githubusercontent.com/87789251/153735828-8e1b063c-8007-4b5a-97be-8cdbcd358072.png" width="50px" height="50px" alt="JAVA">
-  <img src="https://user-images.githubusercontent.com/87789251/153735838-cf255df7-7233-4407-b70d-124ec08f7340.png" width="30px" height="30px" alt="HTML">
-  <img src="https://user-images.githubusercontent.com/87789251/153735840-882a5783-1219-485a-b4af-80fa16ee0f59.png" width="30px" height="30px" alt="CSS">
-  <img src=https://user-images.githubusercontent.com/87789251/153735842-2dda0ff3-0dc3-4557-8432-42344c8d850b.png" width="30px" height="30px" alt="JAVASCRIPT">
+  <img src="https://user-images.githubusercontent.com/87789251/153735838-cf255df7-7233-4407-b70d-124ec08f7340.png" width="50px" height="50px" alt="HTML">
+  <img src="https://user-images.githubusercontent.com/87789251/153735840-882a5783-1219-485a-b4af-80fa16ee0f59.png" width="50px" height="50px" alt="CSS">
+  <img src="https://user-images.githubusercontent.com/87789251/153735842-2dda0ff3-0dc3-4557-8432-42344c8d850b.png" width="50px" height="50px" alt="JAVASCRIPT">
 </p>
 
 <br />
