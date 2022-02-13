@@ -7,22 +7,20 @@
   <br>_____________________________________
 </p>
 
-<h3 align="center">* Welcome to My Repository *</h3>
+<h3 align="center">	:heart: Welcome to My Repository :heart:</h3>
 
-<h2>It's me, @naufal-yafi</h2>
+<h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
 
 > I'm like CODING >_ 
-
+> 
 <h2>My Skill : </h2>
 <p>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50px" height="50px" alt="JAVA">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/terminal-1-logo.png" width="40px" height="30px" alt="TERMINAL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="25px" height="30px" alt="C">
-  <img src="https://www.ulen.delivery/assets/img/html.png" width="30px" height="30px" alt="HTML">
-  <img src="https://cdn.kibrispdr.org/data/html5-css3-logo-0.png" width="30px" height="30px" alt="CSS">
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px" height="30px" alt="JAVASCRIPT">
+  <img src="https://user-images.githubusercontent.com/87789251/153735828-8e1b063c-8007-4b5a-97be-8cdbcd358072.png" width="50px" height="50px" alt="JAVA">
+  <img src="https://user-images.githubusercontent.com/87789251/153735838-cf255df7-7233-4407-b70d-124ec08f7340.png" width="30px" height="30px" alt="HTML">
+  <img src="https://user-images.githubusercontent.com/87789251/153735840-882a5783-1219-485a-b4af-80fa16ee0f59.png" width="30px" height="30px" alt="CSS">
+  <img src=https://user-images.githubusercontent.com/87789251/153735842-2dda0ff3-0dc3-4557-8432-42344c8d850b.png" width="30px" height="30px" alt="JAVASCRIPT">
 </p>
 
 <br />
