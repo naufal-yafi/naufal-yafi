@@ -14,7 +14,15 @@
 </em></p>
 
 > I'm like CODING >_ 
-> 
+
+<h3>I'm learned from : </h3>
+  * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>
+  * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
+  * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
+  * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a>
+  * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
+  * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
+
 <h3>My Skill : </h3>
 <p>
   <img src="https://user-images.githubusercontent.com/87789251/153735828-8e1b063c-8007-4b5a-97be-8cdbcd358072.png" width="30px" height="30px" alt="JAVA">
