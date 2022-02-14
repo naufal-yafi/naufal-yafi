@@ -13,9 +13,9 @@
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
 
-> you can do it :smiley:
+> you can do it :muscle:
 
-* :blue_book: I'm learned from : 
+:blue_book: I'm learned from : 
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
