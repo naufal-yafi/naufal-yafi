@@ -24,6 +24,6 @@
   * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
 
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)<p>    </p>![Stat](https://github-readme-stats.vercel.app/api?username=naufal-yafi&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)
 
