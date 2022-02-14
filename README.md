@@ -7,15 +7,15 @@
   <br>_____________________________________
 </p>
 
-<h3 align="center">	:heart: Welcome to My Repository :heart:</h3>
+<h3 align="center">	Welcome to My Repository :smiley:</h3>
 
 <h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
 
-> I'm like CODING >_ 
+> you can do it :smiley:
 
-* I'm learned from : 
+* :blue_book: I'm learned from : 
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
@@ -25,5 +25,8 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi&theme=dark)               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=dark)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-yafi&theme=dark)
+
 
