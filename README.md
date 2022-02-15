@@ -13,6 +13,7 @@
 <p><em>College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a></br>
 </em></p>
 
+> Learning computational thinking is much more important
 > you can do it :muscle:
 
 :blue_book: I'm learned from : 
