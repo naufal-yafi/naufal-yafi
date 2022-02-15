@@ -19,7 +19,7 @@
 > you can do it :muscle:
 
 :blue_book: I'm learned from : 
-  * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>
+  * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a>
