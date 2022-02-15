@@ -15,7 +15,7 @@
 <p><em>I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
 </em></p>
 
-> Learning computational thinking is much more important <br>
+> Learning COMPUTATIONAL THINKING is much more important <br>
 > you can do it :muscle:
 
 :blue_book: I'm learned from : 
