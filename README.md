@@ -10,9 +10,9 @@
 <h3 align="center">	Welcome to My Repository :smiley:</h3>
 
 <h2>:wave: It's me, @naufal-yafi</h2>
-<p><em>I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
+<p><em>:open_book: I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
 </em></p>
-<p><em>I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
+<p><em>:mortar_board: I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
 </em></p>
 
 :blue_book: I'm learned from : 
