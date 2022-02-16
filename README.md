@@ -24,7 +24,7 @@
   * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
 
 > Learning COMPUTATIONAL THINKING is much more important <br>
-> you can do it :muscle: <br><br>
+> YOU CAN DO IT!!! :muscle: <br><br>
 
 ```
 Basic concepts that I learned from programming :
