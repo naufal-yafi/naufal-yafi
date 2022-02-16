@@ -15,6 +15,14 @@
 <p><em>I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
 </em></p>
 
+:blue_book: I'm learned from : 
+  * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
+  * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
+  * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
+  * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a>
+  * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
+  * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
+
 > Learning COMPUTATIONAL THINKING is much more important <br>
 > you can do it :muscle: <br><br>
 > Basic concepts that I learned from programming :<br><br>
@@ -37,12 +45,6 @@
 >     e.  Polymorphism.<br>
 >     f. Overloading.<br>
 
-:blue_book: I'm learned from : 
-  * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
-  * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
-  * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
-  * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a>
-  * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
-  * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
+
 
 
