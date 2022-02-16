@@ -7,7 +7,7 @@
   <br>_____________________________________
 </p>
 
-<h3 align="center">	:smiley: Welcome to My Repository </h3>
+<h3 align="center">	:smiley: Welcome to My Repository :smiley:</h3>
 
 <h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>:open_book: I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
@@ -25,25 +25,28 @@
 
 > Learning COMPUTATIONAL THINKING is much more important <br>
 > you can do it :muscle: <br><br>
-> Basic concepts that I learned from programming :<br><br>
->   BASIC<br>
->     a. Variable<br>
->     b. Output<br>
->     c. Input<br>
->     d. Data Type (Fundamentals,Structured, Enumerasi, Pointer)<br>
->     e. Branching<br>
->     f. Looping<br>
->     g. Computational Models (Functional, Logic, Imperative)<br>
->     h. System Types and Semantics<br>
->     i. Memory management<br>
->     j. Exception handling<br><br>
->   OOP<br>
->     a. Classes<br>
->     b. Data abstraction<br>
->     c. Data Encapsulation <br>
->     d. Inheritance<br>
->     e.  Polymorphism.<br>
->     f. Overloading.<br>
+```
+Basic concepts that I learned from programming :<br><br>
+   BASIC<br>
+     a. Variable<br>
+     b. Output<br>
+     c. Input<br>
+     d. Data Type (Fundamentals,Structured, Enumerasi, Pointer)<br>
+     e. Branching<br>
+     f. Looping<br>
+     g. Computational Models (Functional, Logic, Imperative)<br>
+     h. System Types and Semantics<br>
+     i. Memory management<br>
+     j. Exception handling<br><br>
+   OOP<br>
+     a. Classes<br>
+     b. Data abstraction<br>
+     c. Data Encapsulation <br>
+     d. Inheritance<br>
+     e.  Polymorphism.<br>
+     f. Overloading.<br>
+
+```
 
 
 
