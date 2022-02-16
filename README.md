@@ -23,7 +23,7 @@
   * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
   * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
 
->
+> <br>
 > Learning COMPUTATIONAL THINKING is much more important <br>
 > YOU CAN DO IT 🔥🔥🔥 <br><br>
 
