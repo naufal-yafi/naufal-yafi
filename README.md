@@ -40,7 +40,7 @@ Basic concepts that I learned from programming :
      h. System Types and Semantics
      i. Memory management
      j. Exception handling
-   OOP
+   Object Oriented Programming 
      a. Classes
      b. Data abstraction
      c. Data Encapsulation 
