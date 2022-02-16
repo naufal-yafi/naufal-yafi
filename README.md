@@ -19,23 +19,23 @@
 > you can do it :muscle: </br>
 > Basic concepts that I learned from programming :
 >   BASIC
->     * Variable
->     * Output
->     * Input
->     * Data Type (Fundamentals,Structured, Enumerasi, Pointer)
->     * Branching
->     * Looping
->     * Computational Models (Functional, Logic, Imperative)
->     * System Types and Semantics
->     * Memory management
->     * Exception handling
+>     a. Variable
+>     b. Output
+>     c. Input
+>     d. Data Type (Fundamentals,Structured, Enumerasi, Pointer)
+>     e. Branching
+>     f. Looping
+>     g. Computational Models (Functional, Logic, Imperative)
+>     h. System Types and Semantics
+>     i. Memory management
+>     j. Exception handling
 >   OOP
->     * Classes
->     * Data abstraction
->     * Data Encapsulation 
->     * Inheritance
->     *  Polymorphism.
->     * Overloading.
+>     a. Classes
+>     b. Data abstraction
+>     c. Data Encapsulation 
+>     d. Inheritance
+>     e.  Polymorphism.
+>     f. Overloading.
 
 :blue_book: I'm learned from : 
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
