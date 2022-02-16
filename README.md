@@ -7,15 +7,15 @@
   <br>_____________________________________
 </p>
 
-<h3 align="center">	:smiley: Welcome to My Repository :smiley:</h3>
+<h3 align="center"> 😄 Welcome to My Repository 😄</h3>
 
 <h2>:wave: It's me, @naufal-yafi</h2>
-<p><em>:open_book: I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
+<p><em>📖 I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
 </em></p>
-<p><em>:mortar_board: I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
+<p><em>🎓 I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
 </em></p>
 
-:blue_book: I'm learned from : 
+📘 I'm learned from : 
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
@@ -23,8 +23,9 @@
   * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
   * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a>
 
+>
 > Learning COMPUTATIONAL THINKING is much more important <br>
-> YOU CAN DO IT!!! :muscle: <br><br>
+> YOU CAN DO IT 🔥🔥🔥 <br><br>
 
 ```
 Basic concepts that I learned from programming :
