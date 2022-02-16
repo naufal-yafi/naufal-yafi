@@ -25,26 +25,27 @@
 
 > Learning COMPUTATIONAL THINKING is much more important <br>
 > you can do it :muscle: <br><br>
+
 ```
-Basic concepts that I learned from programming :<br><br>
-   BASIC<br>
-     a. Variable<br>
-     b. Output<br>
-     c. Input<br>
-     d. Data Type (Fundamentals,Structured, Enumerasi, Pointer)<br>
-     e. Branching<br>
-     f. Looping<br>
-     g. Computational Models (Functional, Logic, Imperative)<br>
-     h. System Types and Semantics<br>
-     i. Memory management<br>
-     j. Exception handling<br><br>
-   OOP<br>
-     a. Classes<br>
-     b. Data abstraction<br>
-     c. Data Encapsulation <br>
-     d. Inheritance<br>
-     e.  Polymorphism.<br>
-     f. Overloading.<br>
+Basic concepts that I learned from programming :
+   BASIC
+     a. Variable
+     b. Output
+     c. Input
+     d. Data Type (Fundamentals,Structured, Enumerasi, Pointer)
+     e. Branching
+     f. Looping
+     g. Computational Models (Functional, Logic, Imperative)
+     h. System Types and Semantics
+     i. Memory management
+     j. Exception handling
+   OOP
+     a. Classes
+     b. Data abstraction
+     c. Data Encapsulation 
+     d. Inheritance
+     e.  Polymorphism
+     f. Overloading
 
 ```
 
