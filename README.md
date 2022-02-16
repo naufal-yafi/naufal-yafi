@@ -7,7 +7,7 @@
   <br>_____________________________________
 </p>
 
-<h3 align="center">	Welcome to My Repository :smiley:</h3>
+<h3 align="center">	:smiley: Welcome to My Repository </h3>
 
 <h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>:open_book: I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
