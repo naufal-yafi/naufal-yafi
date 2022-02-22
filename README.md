@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/naufal_yaf/">
-    <img src="https://user-images.githubusercontent.com/87789251/155088877-196c027f-a020-45ad-b602-677a6194637f.jpg" width="1000px" height="525px" alt="my-logo">
+    <img src="https://user-images.githubusercontent.com/87789251/155088877-196c027f-a020-45ad-b602-677a6194637f.jpg" width="800px" height="325px" alt="my-logo">
   </a>
   <br>_____________________________________
 </p>
