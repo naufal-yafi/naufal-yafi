@@ -1,12 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=naufal-yafi&style=flat-square)
 
-<p align="center">
-  <a href="https://www.instagram.com/naufal_yaf/">
-    <img src="https://user-images.githubusercontent.com/87789251/155088877-196c027f-a020-45ad-b602-677a6194637f.jpg" width="800px" height="325px" alt="my-logo">
-  </a>
-  <br>_____________________________________
-</p>
-
 <h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>📖 I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
 </em></p>
