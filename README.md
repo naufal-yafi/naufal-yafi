@@ -10,7 +10,7 @@
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * Python : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
-  * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a>
+  * Web    : <a href="https://www.youtube.com/c/WebProgrammingUNPAS">Sandhika Galih</a> , <a href="https://www.youtube.com/c/OnlineTutorials4Designers">Muhammad Irshad</a>
   * Linux  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about">Derek Taylor</a>
   * UI UX  : <a href="https://www.youtube.com/c/RioPurbaID">Rio Purba</a> , <a href="https://www.youtube.com/channel/UCPsiGShlFrvb8PPya0fEFtQ">Kukuh Aldy</a>
 
