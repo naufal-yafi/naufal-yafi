@@ -3,7 +3,7 @@
 <h2>:wave: It's me, @naufal-yafi</h2>
 <p><em>📖 I'm Student at <a href="http://sma1wiradesa.sch.id/">1 Public High School Wiradesa</a> (Social Sciences)<br>
 </em></p>
-<p><em>🎓 I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Technical Information)</br>
+<p><em>🎓 I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Informatics Engineering)</br>
 </em></p>
 
 📘 I'm learned from : 
