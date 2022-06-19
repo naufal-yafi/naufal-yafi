@@ -6,6 +6,13 @@
 <p><em>🎓 I'm College Student at <a href="https://www.stmik-wp.ac.id/">STMIK Widya Pratama Pekalongan</a> (Informatics Engineering)</br>
 </em></p>
 
+<div>
+ <a href="github.com/naufal-yafi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naufal-yafi&show_icons=true">
+ </a>
+</div>
+
 📘 I'm learned from : 
   * Java   : <a href="https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ">Eko Khannedy</a>, <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
   * C++    : <a href="https://www.youtube.com/c/KelasTerbuka">Faqihza Mukhlish</a>
