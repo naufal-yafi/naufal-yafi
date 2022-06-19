@@ -7,10 +7,8 @@
 </em></p>
 
 <div>
- <a href="github.com/naufal-yafi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&langs_count=8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naufal-yafi&show_icons=true">
- </a>
 </div>
 
 📘 I'm learned from : 
