@@ -31,7 +31,7 @@
   <a href="">
     <img height="25em" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
   </a>
-  <a href="">
+  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=CllgCJqTfwWCltfZjCTQpmMWsXnbzhjGTMrHgZPhHDxBWGBDxFbDlVJMFDLdSczPNTBXBtFSjqV">
     <img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/naufal_yaf/">
