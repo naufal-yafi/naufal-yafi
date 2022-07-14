@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=naufal-yafi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=naufal-yafi&style=flat-square) 
 
 <h2>:wave: It's me, @naufal-yafi</h2>
 
@@ -22,7 +22,7 @@
   * <img height="20em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  : <a href="https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw" target="_blank">Setia Budi</a>, <a href="https://www.youtube.com/channel/UCbmQPbvgMb6VwocK7706Jcw" target="_blank">Adi Setiawan</a> , <a href="https://www.youtube.com/c/DennyTanujaya" target="_blank">Denny Tanujaya</a> , <a href ="https://www.youtube.com/c/DistroTube/about" target="_blank">Derek Taylor</a>
   * <img height="20em" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"><img height="20em" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">  : <a href="https://www.youtube.com/c/RioPurbaID" target="_blank">Rio Purba</a> , <a href="https://www.youtube.com/channel/UCPsiGShlFrvb8PPya0fEFtQ" target="_blank">Kukuh Aldy</a>
 
-<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-yafi&theme=tokyonight)
 
 <div align="center">
   <a href="">
