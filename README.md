@@ -1,14 +1,23 @@
-<p align="left"> 
+<section align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naufal-yafi&label=Profile%20views&color=0e75b6&style=flat" alt="naufal-yafi" /> 
-</p>
+</section><br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=image-converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=misoh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=collosal-slicing-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=landing-page-frivo">
-</div>
-<br>
+<section align="left">
+  <a href="https://github.com/naufal-yafi/image-converter" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=image-converter">
+  </a>
+  <a href="https://github.com/naufal-yafi/misoh" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=misoh">
+  </a>
+  <a href="https://github.com/naufal-yafi/collosal-slicing-design" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=collosal-slicing-design">
+  </a>
+  <a href="https://github.com/naufal-yafi/landing-page-frivo" target="_blank" rel="noreferrer"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=landing-page-frivo">
+  </a>
+</section><br>
+
+<p>Latest My Blog Post:</p>
 
 <!-- BLOG-POST-LIST:START -->
 - [Host API Dokumentasi dengan Swagger UI Bundle](https://yapppiiii.medium.com/how-to-hosting-your-documentation-openapi-swagger-7cf541bdad06?source=rss-fbf0827113e------2)
@@ -16,7 +25,6 @@
 - [Membuat React Custom Hook yang Efektif dengan DRY Principle](https://yapppiiii.medium.com/redudansi-pada-hook-react-224e6abd9bb9?source=rss-fbf0827113e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 <details>
   <summary>Languages and Tools: </summary>
 
