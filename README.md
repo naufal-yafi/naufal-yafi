@@ -3,12 +3,10 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=image-converter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=misoh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=collosal-slicing-design">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=landing-page-frivo">
 </div>
 <br>
 
