@@ -17,5 +17,5 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
           SHOW_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown Other
           COMMIT_MESSAGE: "docs: @waka-readme update new metrics"
