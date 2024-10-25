@@ -16,7 +16,9 @@ jobs:
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 12
-          CODE_LANG: TypeScript, Javascript, PHP, Python
+          CODE_LANG: python
           SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: XML YAML JSON TOML Markdown TSConfig SQL
           COMMIT_MESSAGE: "docs: @waka-readme update new metrics"
