@@ -17,20 +17,36 @@ Git Config      13 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<section align="left">
-  <a href="https://github.com/naufal-yafi/image-converter" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=image-converter">
-  </a>
-  <a href="https://github.com/naufal-yafi/misoh" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=misoh">
-  </a>
-  <a href="https://github.com/naufal-yafi/collosal-slicing-design" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=collosal-slicing-design">
-  </a>
-  <a href="https://github.com/naufal-yafi/landing-page-frivo" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=landing-page-frivo">
-  </a>
-</section><br>
+<details>
+  <summary>Machine Learning Projects</summary>
+  <section align="left">
+    <a href="https://github.com/naufal-yafi/knn-regression.model" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=knn-regression.model">
+    </a>
+    <a href="https://github.com/naufal-yafi/text-mining-nb.model" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=text-mining-nb.model">
+    </a>
+  </section>
+</details>
+
+<details>
+  <summary>Other Projects:</summary>
+  <section align="left">
+    <a href="https://github.com/naufal-yafi/image-converter" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=image-converter">
+    </a>
+    <a href="https://github.com/naufal-yafi/misoh" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=misoh">
+    </a>
+    <a href="https://github.com/naufal-yafi/collosal-slicing-design" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=collosal-slicing-design">
+    </a>
+    <a href="https://github.com/naufal-yafi/landing-page-frivo" target="_blank" rel="noreferrer"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=landing-page-frivo">
+    </a>
+  </section>
+</details>
+<br/>
 
 <p>Latest My Blog Post:</p>
 
