@@ -19,6 +19,7 @@ jobs:
           CODE_LANG: python java
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
           IGNORED_LANGUAGES: XML YAML JSON TOML Markdown TSConfig SQL CSV HTML CSS Bash Git Config
           COMMIT_MESSAGE: "docs: @waka-readme update new metrics"
