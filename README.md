@@ -15,7 +15,7 @@ Other           3 hrs 15 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <details>
-  <summary>Machine Learning Projects</summary>
+  <summary>Machine Learning Models</summary>
   <section align="left">
     <a href="https://github.com/naufal-yafi/knn-regression.model" target="_blank" rel="noreferrer"> 
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufal-yafi&repo=knn-regression.model">
