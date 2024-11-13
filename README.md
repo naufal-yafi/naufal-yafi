@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```python java typescript
-TypeScript      44 hrs 31 mins  ████████████▒░░░░░░░░░░░░   48.74 %
-Python          24 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
-Markdown        3 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Other           3 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TypeScript      44 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.74 %
+Python          24 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.87 %
+Other           3 hrs 15 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.57 %
 ```
 
 <!--END_SECTION:waka-->
