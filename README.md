@@ -2,9 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=naufal-yafi&label=Profile%20views&color=0e75b6&style=flat" alt="naufal-yafi" /> 
 </section><br>
 
+```python
+From: 11 October 2024
+```
+
 <!--START_SECTION:waka-->
 
-```python java typescript
+```python
 TypeScript                 74 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.16 %
 Python                     36 hrs 16 mins  ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.09 %
 PHP                        21 hrs 22 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.02 %
