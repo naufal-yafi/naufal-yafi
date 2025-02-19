@@ -52,7 +52,6 @@ Other                      7 hrs 12 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p>Latest My Blog Post:</p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Host API Dokumentasi dengan Swagger UI Bundle](https://yapppiiii.medium.com/how-to-hosting-your-documentation-openapi-swagger-7cf541bdad06?source=rss-fbf0827113e------2)
 - [Apa yang Terjadi Jika Kita Membuat Route dan Response Sembarangan pada RESTful API?](https://yapppiiii.medium.com/jangan-membuat-route-sembarangan-pada-restful-api-begini-caranya-best-practice-route-eb09378fc884?source=rss-fbf0827113e------2)
 - [Membuat React Custom Hook yang Efektif dengan DRY Principle](https://yapppiiii.medium.com/redudansi-pada-hook-react-224e6abd9bb9?source=rss-fbf0827113e------2)
 <!-- BLOG-POST-LIST:END -->
