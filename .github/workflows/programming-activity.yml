@@ -15,6 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          LANG_COUNT: 8
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Markdown
+          IGNORED_LANGUAGES: Markdown, JSON
           COMMIT_MESSAGE: "docs: @waka-readme update new metrics"
