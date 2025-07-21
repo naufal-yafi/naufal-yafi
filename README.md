@@ -18,3 +18,5 @@ Other                      28 hrs 58 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+📊 Data from [@wakatime/naufal_yafi](https://wakatime.com/@naufal_yafi)
